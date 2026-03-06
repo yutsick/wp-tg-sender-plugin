@@ -1,0 +1,1 @@
+# wp-tg-sender-plugin
